@@ -1,0 +1,10 @@
+django
+numpy
+pandas
+opencv-python-headless
+Pillow
+scikit-learn
+scipy
+sklearn
+gunicorn
+whitenoise
